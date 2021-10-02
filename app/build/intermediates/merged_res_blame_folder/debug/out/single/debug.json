@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blog_single.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_blog_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blog.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bkg.jpeg.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\drawable\\bkg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_portfolio.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_portfolio.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pricing.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_pricing.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\font_work_sans.ttf.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\font\\work_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_portfolio_single.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\src\\main\\res\\layout\\activity_portfolio_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\niaaw\\Documents\\Business\\NiaApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]

@@ -1,0 +1,84 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.niaapplications.niaapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:5:22-76
+13
+14    <application
+14-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:7:5-40:19
+15        android:allowBackup="true"
+15-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\niaaw\.gradle\caches\transforms-2\files-2.1\ae31cc97a3f9383e0242537d69427d3a\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.NiaApp" >
+23-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:13:9-44
+24        <activity android:name="com.niaapplications.niaapp.MainActivity" >
+24-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:14:9-20:20
+24-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:14:19-47
+25            <intent-filter>
+25-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:15:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:16:17-69
+26-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:16:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:18:17-77
+28-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:21:9-23:45
+32            android:name="com.niaapplications.niaapp.AboutActivity"
+32-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:22:13-42
+33            android:label="@string/abt_b" />
+33-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:23:13-42
+34        <activity
+34-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:24:9-26:46
+35            android:name="com.niaapplications.niaapp.BlogActivity"
+35-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:25:13-41
+36            android:label="@string/blog_b" />
+36-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:26:13-43
+37        <activity
+37-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:28:9-30:49
+38            android:name="com.niaapplications.niaapp.ContactActivity"
+38-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:29:13-44
+39            android:label="@string/contact_b" />
+39-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:30:13-46
+40        <activity
+40-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:32:9-34:47
+41            android:name="com.niaapplications.niaapp.PricingActivity"
+41-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:33:13-44
+42            android:label="@string/price_b" />
+42-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:34:13-44
+43        <activity
+43-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:36:9-38:46
+44            android:name="com.niaapplications.niaapp.PortfolioActivity"
+44-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:37:13-46
+45            android:label="@string/port_b" />
+45-->C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\AndroidManifest.xml:38:13-43
+46    </application>
+47
+48</manifest>
