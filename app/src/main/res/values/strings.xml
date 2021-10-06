@@ -29,6 +29,11 @@ I look forward to working with you!</string>
     <string name="abt_desc">My Face</string>
     <string name="action_contact">Get in touch!</string>
     <string name="resort">ResortApp</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="message">Message:</string>
+    <string name="namehint">Ex:Yessenia Suarez</string>
+    <string name="emailhint">Ex:yessie17@gmail.com</string>
 
 
 </resources>

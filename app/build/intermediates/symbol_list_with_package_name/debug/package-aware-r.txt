@@ -1504,7 +1504,10 @@ id dimensions
 id direct
 id disableHome
 id dropdown_menu
+id editText
 id edit_query
+id email
+id email_box
 id end
 id enterAlways
 id enterAlwaysCollapsed
@@ -1575,6 +1578,8 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
+id name
+id name_box
 id navigation_header_container
 id never
 id noScroll
@@ -1879,12 +1884,15 @@ string chip_text
 string clear_text_end_icon_content_description
 string contact_b
 string contact_text
+string email
+string emailhint
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
+string message
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_suffix
@@ -1919,6 +1927,8 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string name
+string namehint
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -1928,6 +1938,7 @@ string port_b
 string price_b
 string pricing_text
 string pricing_title
+string resort
 string search_menu_title
 string status_bar_notification_info_overflow
 string website

@@ -5504,7 +5504,7 @@ Alternatively you can opt for the hourly option, my hourly rate is $28 USD.
 
 Consultation is free. If you have a potential project, contact me here. If you wish to view my previous work click here.
 
-I look forward to working with you!</string><string name="pricing_title">Pricing is determined on a project by project basis.</string><string name="abt_desc">My Face</string><string name="action_contact">Get in touch!</string></file><file path="C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.NiaApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+I look forward to working with you!</string><string name="pricing_title">Pricing is determined on a project by project basis.</string><string name="abt_desc">My Face</string><string name="action_contact">Get in touch!</string><string name="resort">ResortApp</string><string name="name">Name:</string><string name="email">Email:</string><string name="message">Message:</string><string name="namehint">Ex:Yessenia Suarez</string><string name="emailhint">Ex:yessie17@gmail.com</string></file><file path="C:\Users\niaaw\Documents\Business\NiaApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.NiaApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple</item>
         <item name="colorPrimaryVariant">@color/lilac</item>
