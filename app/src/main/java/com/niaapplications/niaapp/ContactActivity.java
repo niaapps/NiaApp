@@ -12,5 +12,7 @@ public class ContactActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contact);
         EditText name = findViewById(R.id.name_box);
+        EditText email = findViewById(R.id.email_box);
+        EditText msg = findViewById(R.id.msg);
     }
 }
